@@ -10,6 +10,7 @@
 
 Ejemplo para SSH desde shell:
 
+gitpull
 ```bash
 ssh rpizerow@rpizerow-01.local
 ```
