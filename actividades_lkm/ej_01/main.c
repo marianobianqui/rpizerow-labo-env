@@ -7,7 +7,7 @@
 */
 static int __init ej01_module_init(void) {
 	// Completar
-
+	printk("bianqui_mariano_ej01 buenos dias mundo donde caemos gente?");
 	// Salio todo bien
 	return 0;
 }
@@ -17,7 +17,7 @@ static int __init ej01_module_init(void) {
 */
 static void __exit ej01_module_exit(void) {
 	// Completar
-
+	printk("bianqui_mariano_ej01 nos vimos wachin");
 }
 
 // Registro funciones de inicializacion y salida
